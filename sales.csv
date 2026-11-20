@@ -1,0 +1,11 @@
+date,product,category,quantity,unit_price,cost
+2026-01-05,Laptop,Electronics,2,15000,12000
+2026-01-08,Mouse,Accessories,5,300,180
+2026-01-12,Keyboard,Accessories,3,700,450
+2026-02-02,Monitor,Electronics,2,5000,3900
+2026-02-10,Laptop,Electronics,1,15000,12000
+2026-02-15,Mouse,Accessories,10,300,180
+2026-03-01,Desk,Furniture,2,4000,2800
+2026-03-07,Chair,Furniture,4,2500,1700
+2026-03-12,Keyboard,Accessories,6,700,450
+2026-03-20,Monitor,Electronics,3,5000,3900
