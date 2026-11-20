@@ -57,7 +57,7 @@ python Sales_Data_Analyzer.py
 
 ## 👨‍💻 Author
 
-Mohamed
+Mohamed Madgi Eldeeb
 
 GitHub: [mohammedeldeeb2331-ops](https://github.com/mohammedeldeeb2331-ops)
 
